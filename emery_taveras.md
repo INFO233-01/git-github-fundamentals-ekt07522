@@ -1,0 +1,2 @@
+This is going to be a re-run of what I just did because I was not reading directions completely. I pretty much learned everything well and enjoyed this repository for sure! The only thing im a bit confused about is what forks are exactly, and the purpose they have along with pull requests! More importantly because this step in the assignment involves me using a pull request!
+This is really cool though! I have the oppurtunity to work on code with a team of people and we all get to look at one another's work which is pretty awesome !
